@@ -60,3 +60,19 @@ adding, committing and pushing your work on a regular basis.
 [github]: https://github.com/
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/git-remotes-and-github-lab' title='Git Remotes + GitHub Lab'>Git Remotes + GitHub Code-Along</a> on Learn.co and start learning to code for free.</p>
+
+
+
+
+/*
+this lab
+    1) has a folder named my-repository
+    2) has a valid git repository initialized for the my-repository folder
+    3) has a README.md file in the my-repository folder
+
+  the local repository
+    4) has README.md as a tracked file
+    5) has at least one commit
+    6) has been pushed up to the remote repository
+    
+  */  
